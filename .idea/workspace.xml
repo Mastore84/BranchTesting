@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d899269-177f-4e96-9bce-eec6b395e7e6" name="Changes" comment="" />
+    <list default="true" id="9d899269-177f-4e96-9bce-eec6b395e7e6" name="Changes" comment="Cat class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +45,28 @@
       <option name="presentableId" value="Default" />
       <updated>1668411916702</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1668411978585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668411978585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dog class">
+      <created>1668412023431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668412023431</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cat class">
+      <created>1668412053922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668412053922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +79,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <MESSAGE value="Dog class" />
+    <MESSAGE value="Cat class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cat class" />
   </component>
 </project>
